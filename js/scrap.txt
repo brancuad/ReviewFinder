@@ -1,0 +1,73 @@
+﻿feed:
+author: {name: {…}, uri: {…}}
+entry: Array(50)
+0:
+author: {uri: {…}, name: {…}, label: ""}
+content: {label: "In life there are prodigies whose natural talent i… episode. Keep on trucking.↵↵-Andres Suarez-Domit", attributes: {…}}
+id: {label: "3358769344"}
+im:contentType: {attributes: {…}}
+im:rating: {label: "5"}
+im:voteCount: {label: "0"}
+im:voteSum: {label: "0"}
+link: {attributes: {…}}
+title: {label: "Podcasting Prodigies"}
+__proto__: Object
+1: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+2: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+3: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+4: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+5: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+6: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+7: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+8: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+9: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+10: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+11: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+12: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+13: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+14: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+15: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+16: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+17: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+18: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+19: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+20: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+21: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+22: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+23: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+24: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+25: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+26: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+27: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+28: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+29: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+30: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+31: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+32: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+33: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+34: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+35: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+36: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+37: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+38: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+39: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+40: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+41: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+42: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+43: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+44: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+45: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+46: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+47: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+48: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+49: {author: {…}, im:rating: {…}, id: {…}, title: {…}, content: {…}, …}
+length: 50
+__proto__: Array(0)
+icon: {label: "http://itunes.apple.com/favicon.ico"}
+id: {label: "https://itunes.apple.com/us/rss/customerreviews/id=1325750806/sortBy=mostRecent/json"}
+link: (6) [{…}, {…}, {…}, {…}, {…}, {…}]
+rights: {label: "Copyright 2008 Apple Inc."}
+title: {label: "iTunes Store: Customer Reviews"}
+updated: {label: "2018-11-01T18:26:23-07:00"}
+__proto__: Object
+__proto__: Object
